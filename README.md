@@ -31,7 +31,7 @@ Example:
 
 ```python
 # Run a Python script
-python basic_operations.py
+basic python Operation.py
 ```
 
 You can modify the scripts to experiment with different inputs and see how Python handles various operations.
